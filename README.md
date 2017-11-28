@@ -133,7 +133,7 @@ $ls /usr/lib/arm-linux-gnueabihf/libboost*
 g++ sample-mt.cpp -L/usr/lib -L/usr/local/lib -I/usr/include -lboost_thread -lboost_system -lboost_date_time
 ```
 
-You will get a.out file as a result.
+You will get an executable file with name a.out.
 
 # 3. Run & check the results.
 
