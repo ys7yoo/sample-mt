@@ -177,7 +177,7 @@ Sampling rate=10
 
 Make sure that you see 10 events per a second. 
 
-You can change the sampling rate witn the input argument
+You can change the sampling rate with the input argument
 ```
 a.out [SAMPLING_RATE]
 ```
